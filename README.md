@@ -11,4 +11,4 @@ Recommended to Use Latest Version If Possible.
 * <a href="https://telegra.ph/Cara-Setup-Pass-Wall---OpenWRT-21023-08-31">Click Here</a><p></p>
 
 # Contact Me:
-* My Telegram: <a href="http://t.me/xthusiapa">MSSVPN HQ</a><p></p>
+* My Telegram: <a href="http://t.me/xthusiapa">Faiz981219</a><p></p>
